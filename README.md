@@ -2,12 +2,11 @@
      
      import UIKit
       
-      class ViewController : UIViewController {
+    class ViewController : UIViewController {
         
-        void viewDidLoad()
-        {
-        view.background.color = .red
-        }
-        
+        override func viewDidLoad() {
+            super.viewDidLoad()
+
+        }        
      }
      
