@@ -8,5 +8,10 @@
             super.viewDidLoad()
              setupUI()
         }        
+        
+        fileprivate func setupUI() {
+        
+        }
+        
      }
      
