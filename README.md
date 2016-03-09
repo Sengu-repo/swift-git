@@ -10,7 +10,7 @@
         }        
         
         fileprivate func setupUI() {
-        
+           view.addSubView(UIView())
         }
         
      }
