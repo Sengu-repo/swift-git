@@ -3,6 +3,11 @@
      import UIKit
       
       class ViewController : UIViewController {
-         
+        
+        void viewDidLoad()
+        {
+        
+        }
+        
      }
      
