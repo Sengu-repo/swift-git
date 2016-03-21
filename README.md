@@ -6,7 +6,7 @@
         
         void viewDidLoad()
         {
-        
+        view.background.color = .red
         }
         
      }
