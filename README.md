@@ -12,11 +12,6 @@
         fileprivate func setupUI() {
            view.addSubView(UIView())
         }
-        
-        // MARK: - Setup Spinner
-        func setupSpinner() {
-            spinningActivityIndicator.setupTSSpinnerView()
-        }
-        
+            
      }
      
