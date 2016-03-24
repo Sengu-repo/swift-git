@@ -8,10 +8,6 @@
             super.viewDidLoad()
              setupUI()
         }        
-        
-        fileprivate func setupUI() {
-           view.addSubView(UIView())
-        }
-            
+                    
      }
      
