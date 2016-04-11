@@ -8,6 +8,8 @@
             super.viewDidLoad()
              
         }     
+        
+        func setupView
                     
      }
      
