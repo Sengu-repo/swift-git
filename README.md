@@ -10,7 +10,7 @@
         }     
         
         func setupView(){
-        view.add.
+        view.add.sub
         }
                     
      }
