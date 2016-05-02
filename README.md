@@ -9,7 +9,7 @@
              
         }     
         
-        func setupView()
+        func setupView(){
                     
      }
      
