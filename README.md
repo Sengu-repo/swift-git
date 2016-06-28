@@ -11,7 +11,7 @@
         
         func setupView(){
           let view = UIView()
-          view.background.color = .r
+          view.background.color = .re
         view.add.subView(
         }
                     
