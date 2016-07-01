@@ -11,7 +11,7 @@
         
         func setupView(){
           let view = UIView()
-          view.background.co
+          view.background.col
         view.add.subView(
         }
                     
