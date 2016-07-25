@@ -1,19 +1,4 @@
-# swift-git
-     
-     import UIKit
-      
-    class ViewController : UIViewController {
-        
-        override func viewDidLoad() {
-            super.viewDidLoad()
-             
-        }     
-        
-        func setupView(){
-          let view = UIView()
-          view.background.color = .red
-        view.add.subView(
-        }
-                    
-     }
-     
+#swift-git
+  
+  my 1st App     
+
